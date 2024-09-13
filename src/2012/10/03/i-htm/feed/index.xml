@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Thank you! Slides, pictures, and video!	</title>
+	<atom:link href="/2012/10/03/i-htm/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/10/03/i-htm/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:32:50 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: summit		</title>
+		<link>/2012/10/03/i-htm/#comment-329</link>
+
+		<dc:creator><![CDATA[summit]]></dc:creator>
+		<pubDate>Sun, 02 Dec 2012 15:21:36 +0000</pubDate>
+		<guid isPermaLink="false">http://summit.oshwa.org/?p=1566#comment-329</guid>
+
+					<description><![CDATA[Hi!  You can become a member here: http://www.oshwa.org/membership/]]></description>
+			<content:encoded><![CDATA[<p>Hi!  You can become a member here: <a href="http://www.oshwa.org/membership/" rel="nofollow ugc">http://www.oshwa.org/membership/</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: BILOO		</title>
+		<link>/2012/10/03/i-htm/#comment-328</link>
+
+		<dc:creator><![CDATA[BILOO]]></dc:creator>
+		<pubDate>Sun, 02 Dec 2012 04:16:36 +0000</pubDate>
+		<guid isPermaLink="false">http://summit.oshwa.org/?p=1566#comment-328</guid>
+
+					<description><![CDATA[hi,,,,   i am biloo  electronic engineering  from Algeria, and i am very interested,by open sours Harware and your great OHS, i ask if i can be member with you]]></description>
+			<content:encoded><![CDATA[<p>hi,,,,   i am biloo  electronic engineering  from Algeria, and i am very interested,by open sours Harware and your great OHS, i ask if i can be member with you</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Why Open Hardware is Super-Awesome for Kids	</title>
+	<atom:link href="/why-open-hardware-is-super-awesome-for-kids/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:31:35 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Les petits bidouilleurs en open source &#187; OWNI, News, Augmented		</title>
+		<link>/why-open-hardware-is-super-awesome-for-kids/#comment-277</link>
+
+		<dc:creator><![CDATA[Les petits bidouilleurs en open source &#187; OWNI, News, Augmented]]></dc:creator>
+		<pubDate>Fri, 28 Sep 2012 14:47:53 +0000</pubDate>
+		<guid isPermaLink="false">http://summit.oshwa.org/?page_id=646#comment-277</guid>
+
+					<description><![CDATA[[...] car cela ne présente que des avantages. Un credo qu&#8217;ils ont développé ce jeudi lors de leur conférence à l&#8217;Open Hardware Summit à New York, un grand meeting annuel réunissant les figures de [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] car cela ne présente que des avantages. Un credo qu&#8217;ils ont développé ce jeudi lors de leur conférence à l&#8217;Open Hardware Summit à New York, un grand meeting annuel réunissant les figures de [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

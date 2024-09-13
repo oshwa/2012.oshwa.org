@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Power Racing Series: How Open Competition and Hackerspaces Inspire the Public	</title>
+	<atom:link href="/the-power-racing-series-how-open-competition-and-hackerspaces-inspire-the-public/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:31:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Open Hardware Summit, NY 2012 &#124; Natasha Carolan		</title>
+		<link>/the-power-racing-series-how-open-competition-and-hackerspaces-inspire-the-public/#comment-300</link>
+
+		<dc:creator><![CDATA[Open Hardware Summit, NY 2012 &#124; Natasha Carolan]]></dc:creator>
+		<pubDate>Fri, 05 Oct 2012 02:54:43 +0000</pubDate>
+		<guid isPermaLink="false">http://summit.oshwa.org/?page_id=639#comment-300</guid>
+
+					<description><![CDATA[[...] Jim Burke took a rather more playful approach with his talk on how competition and hackerspaces inspire the public. Pointing to his open Power Racing Series in which competitors are encouraged to hack motorised toy cars and compete in a fun derby style race. Moxie points and alternative point systems provide all competitors with a chance of winning reducing pressure to compete and opening the race to a wide range of competitors. Jim suggests that this playful approach to hacking and making is important in drawing in non-typical competitors, it sounds like the rules of &#8216;play&#8217; are useful mechanisms in aiding user participation in learning and making. [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Jim Burke took a rather more playful approach with his talk on how competition and hackerspaces inspire the public. Pointing to his open Power Racing Series in which competitors are encouraged to hack motorised toy cars and compete in a fun derby style race. Moxie points and alternative point systems provide all competitors with a chance of winning reducing pressure to compete and opening the race to a wide range of competitors. Jim suggests that this playful approach to hacking and making is important in drawing in non-typical competitors, it sounds like the rules of &#8216;play&#8217; are useful mechanisms in aiding user participation in learning and making. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

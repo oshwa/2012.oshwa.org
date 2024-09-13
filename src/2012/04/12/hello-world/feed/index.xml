@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: It&#8217;s on!	</title>
+	<atom:link href="/2012/04/12/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/04/12/hello-world/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:35:37 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: catarina		</title>
+		<link>/2012/04/12/hello-world/#comment-60</link>
+
+		<dc:creator><![CDATA[catarina]]></dc:creator>
+		<pubDate>Thu, 31 May 2012 13:30:09 +0000</pubDate>
+		<guid isPermaLink="false">http://summit.oshw.org/?p=1#comment-60</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2012/04/12/hello-world/#comment-58&quot;&gt;Ashfaq&lt;/a&gt;.
+
+I&#039;m glad you like the badges! These were last year&#039;s, so they are not for sale and we don&#039;t have any left... Sorry you can&#039;t attend the summit in person, but we&#039;ll likely be live streaming it, so hopefully you can catch a few of the talks online.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2012/04/12/hello-world/#comment-58">Ashfaq</a>.</p>
+<p>I&#8217;m glad you like the badges! These were last year&#8217;s, so they are not for sale and we don&#8217;t have any left&#8230; Sorry you can&#8217;t attend the summit in person, but we&#8217;ll likely be live streaming it, so hopefully you can catch a few of the talks online.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ashfaq		</title>
+		<link>/2012/04/12/hello-world/#comment-58</link>
+
+		<dc:creator><![CDATA[Ashfaq]]></dc:creator>
+		<pubDate>Thu, 31 May 2012 05:22:50 +0000</pubDate>
+		<guid isPermaLink="false">http://summit.oshw.org/?p=1#comment-58</guid>
+
+					<description><![CDATA[I just love the OH logo which you guys are giving out. the one in thepicture above.
+is there any place i can buy them?? I am from India, hence unfortunately cannot attend the summit. :(
+regards.]]></description>
+			<content:encoded><![CDATA[<p>I just love the OH logo which you guys are giving out. the one in thepicture above.<br />
+is there any place i can buy them?? I am from India, hence unfortunately cannot attend the summit. 🙁<br />
+regards.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

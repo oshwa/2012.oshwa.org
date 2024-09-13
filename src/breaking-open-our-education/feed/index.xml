@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Breaking Open our Education	</title>
+	<atom:link href="/breaking-open-our-education/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:22:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: LittleBits, simplificando a eletrônica &#124; Daniela Kutschat		</title>
+		<link>/breaking-open-our-education/#comment-275</link>
+
+		<dc:creator><![CDATA[LittleBits, simplificando a eletrônica &#124; Daniela Kutschat]]></dc:creator>
+		<pubDate>Fri, 28 Sep 2012 03:15:44 +0000</pubDate>
+		<guid isPermaLink="false">http://summit.oshwa.org/?page_id=1217#comment-275</guid>
+
+					<description><![CDATA[[...] Open Hardware Summit Breaking Open our Education [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Open Hardware Summit Breaking Open our Education [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

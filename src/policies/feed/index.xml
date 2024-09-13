@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Policies	</title>
+	<atom:link href="/policies/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:28:29 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Open Source Hardware Summit 2012 &#124; Technology tutorials house		</title>
+		<link>/policies/#comment-326</link>
+
+		<dc:creator><![CDATA[Open Source Hardware Summit 2012 &#124; Technology tutorials house]]></dc:creator>
+		<pubDate>Tue, 30 Oct 2012 06:07:34 +0000</pubDate>
+		<guid isPermaLink="false">http://summit.oshwa.org/?page_id=1080#comment-326</guid>
+
+					<description><![CDATA[[...] Source Hardware community, the Summit provides a friendly forum for discussion in line with our policies and desire to be as inclusive as [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Source Hardware community, the Summit provides a friendly forum for discussion in line with our policies and desire to be as inclusive as [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Open Hardware Summit 2012</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:35:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Thank you! Slides, pictures, and video!</title>
+		<link>/2012/10/03/i-htm/</link>
+					<comments>/2012/10/03/i-htm/#comments</comments>
+		
+		<dc:creator><![CDATA[summit]]></dc:creator>
+		<pubDate>Wed, 03 Oct 2012 20:11:42 +0000</pubDate>
+				<category><![CDATA[Announcements]]></category>
+		<guid isPermaLink="false">http://summit.oshwa.org/?p=1566</guid>
+
+					<description><![CDATA[UPDATE: Slides and Videos are available linked from the speaker&#8217;s name on the schedule page. The OHS 2012 stage. Photo by Bill Ward. WOW. It has been quite a year [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p></p><p><strong>UPDATE:</strong> Slides and Videos are available linked from the speaker&#8217;s name on the schedule page.</p>
+<p><a href="http://www.flickr.com/photos/wwward0/8034989930/in/photostream"><img fetchpriority="high" decoding="async" class="size-full wp-image-1570" title="8034989930_7095804a6e" alt="" src="/files/2012/10/8034989930_7095804a6e.jpeg" width="500" height="375" srcset="/files/2012/10/8034989930_7095804a6e.jpeg 500w, /files/2012/10/8034989930_7095804a6e-300x225.jpeg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a><br />
+The OHS 2012 stage. Photo by Bill Ward.</p>
+<p>WOW. It has been quite a year for open hardware. Thank you to all for attending, <a href="/schedule/">speaking</a>, <a href="/sponsor/">sponsoring</a>, presenting <a href="/demosposters/">demos and posters</a>, and helping the 2012 Open Hardware Summit become such a huge success this year!</p>
+<p>We will be posting In the mean time check out the photos in the <a href="http://www.flickr.com/groups/2061423@N25/">Open Hardware Summit’s flickr group</a> and upload your own, and visit the <a href="http://www.ustream.tv/channel/ohs2012">ustream channel</a> for the archived live video.</p>
+<p>The Summit is completely volunteer run and non-profit. We couldn’t have done it without our <a href="/about-ohs/">dream team</a> and several last minute volunteers who stepped up to tasks we didn’t expect! We are so fortunate to have an amazing community full of talented, giving people – please carry the excitement of the day with you into the following year.</p>
+<p><a href="/files/2012/10/OH.jpg"><img decoding="async" class="alignnone size-full wp-image-1577" title="OH" alt="" src="/files/2012/10/OH.jpg" width="500" height="375" srcset="/files/2012/10/OH.jpg 500w, /files/2012/10/OH-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a> Did you notice that the chairs spelled OH?</p>
+<p><a href="http://www.flickr.com/photos/johngineer/8043960522/"><img decoding="async" class="alignnone size-full wp-image-1578" title="8043960522_361498e745" alt="" src="/files/2012/10/8043960522_361498e745.jpeg" width="500" height="437" srcset="/files/2012/10/8043960522_361498e745.jpeg 500w, /files/2012/10/8043960522_361498e745-300x262.jpeg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a> The wonderful swag bag provided by our sponsors. Photo by Johngineer.</p>
+<p><a href="/files/2012/10/umbrella2_sm.jpg"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-1589" title="umbrella2_sm" alt="" src="/files/2012/10/umbrella2_sm.jpg" width="500" height="375" srcset="/files/2012/10/umbrella2_sm.jpg 500w, /files/2012/10/umbrella2_sm-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a><br />
+This year, our gift to OHS attendees was an umbrella, to shield you from the weather and remind you stay open even on rainy days <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2012/10/03/i-htm/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1566</post-id>	</item>
+		<item>
+		<title>Be Excellent to Each Other</title>
+		<link>/2012/09/23/be-excellent-to-each-other/</link>
+					<comments>/2012/09/23/be-excellent-to-each-other/#comments</comments>
+		
+		<dc:creator><![CDATA[summit]]></dc:creator>
+		<pubDate>Sun, 23 Sep 2012 19:36:40 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://summit.oshwa.org/?p=1536</guid>
+
+					<description><![CDATA[You may not have noticed, but about a month ago, we adopted some conference policies. This step was encouraged by a friend and member of the open hardware community, Lenore [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p></p><p><a title="BE EXCELLENT TO EACH OTHER by Rantz, on Flickr" href="http://www.flickr.com/photos/rantz/6688216699/"><img loading="lazy" decoding="async" src="http://farm8.staticflickr.com/7168/6688216699_681c2a3c0c.jpg" alt="BE EXCELLENT TO EACH OTHER" width="500" height="375" /></a></p>
+<p>You may not have noticed, but about a month ago, we adopted some conference <a href="/policies/">policies</a>. This step was encouraged by a friend and member of the open hardware community, Lenore of <a href="http://www.evilmadscientist.com/">Evil Mad Scientist Laboratories</a>, and we happily complied. Luckily, the folks at the <a href="http://adainitiative.org/">Ada Initiative</a> made it easy for us &#8211; they have example drafts of <a href="http://adainitiative.org/what-we-do/conference-policies/">conference policies</a> pretty much ready to go. We&#8217;ve never had an issue at the OHS before, but this is in place for the same reason some of us have health insurance &#8211; just in case. It basically says &#8220;be excellent to each other, and if you aren&#8217;t, you may be asked to leave&#8221;. So while the Ada Initiative wrote and encouraged adoption of policies targeted towards preventing harassment of women, these ground rules apply to everyone.</p>
+<p>Oh, and if you&#8217;ve never seen <a href="http://www.imdb.com/title/tt0096928/">Bill &amp; Ted&#8217;s Excellent Adventure</a> (the source of this quote and image), you should ;-).</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2012/09/23/be-excellent-to-each-other/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1536</post-id>	</item>
+		<item>
+		<title>Demonstrations and Posters list live!</title>
+		<link>/2012/09/22/demonstrations-and-posters-list-live/</link>
+		
+		<dc:creator><![CDATA[summit]]></dc:creator>
+		<pubDate>Sat, 22 Sep 2012 20:45:31 +0000</pubDate>
+				<category><![CDATA[Announcements]]></category>
+		<guid isPermaLink="false">http://summit.oshwa.org/?p=1527</guid>
+
+					<description><![CDATA[Click on over here to check the almost 50 demonstrations and posters we&#8217;ll have from sponsors, companies, groups, and individuals. There will be an amazing array of demos and posters [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p></p><p>Click on over <a href="/demosposters/">here</a> to check the almost 50 demonstrations and posters we&#8217;ll have from sponsors, companies, groups, and individuals. There will be an amazing array of demos and posters set up all day, so make sure to wander over during the breaks and definitely during the end of day reception.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1527</post-id>	</item>
+		<item>
+		<title>No tickets left (even for sponsors)! Banners and programs are off to the printers!</title>
+		<link>/2012/09/19/no-tickets-left-even-for-sponsors-banners-and-programs-are-off-to-the-printers/</link>
+		
+		<dc:creator><![CDATA[summit]]></dc:creator>
+		<pubDate>Wed, 19 Sep 2012 00:38:49 +0000</pubDate>
+				<category><![CDATA[Announcements]]></category>
+		<guid isPermaLink="false">http://summit.oshwa.org/?p=1471</guid>
+
+					<description><![CDATA[The open hardware community has been SO supportive of the Summit that we are completely booked and out of tickets, even for sponsors. Originally sponsorships at the Supporter level and [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p></p><p>The open hardware community has been SO supportive of the Summit that we are completely booked and out of tickets, even for sponsors. Originally sponsorships at the Supporter level and above ($300+) included a complementary ticket, but we can no longer offer this perk. Also, some sponsorship levels included a logo on our banner and the program, but those have been shipped off to the printers! You can of course still sponsor at any level and will get a logo on the website, a digi-badge, etc. Thank you to all of our <a href="/sponsor/">sponsors</a> &#8211; we couldn&#8217;t do this without you!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1471</post-id>	</item>
+		<item>
+		<title>SOLD OUT! (Still want a ticket &#8211; become a Sponsor!)</title>
+		<link>/2012/09/05/sold-out-still-want-a-ticket-become-a-sponsor/</link>
+		
+		<dc:creator><![CDATA[summit]]></dc:creator>
+		<pubDate>Wed, 05 Sep 2012 14:57:56 +0000</pubDate>
+				<category><![CDATA[Announcements]]></category>
+		<guid isPermaLink="false">http://summit.oshwa.org/?p=1185</guid>
+
+					<description><![CDATA[We are excited to announce that we are officially sold out of tickets to the 2012 Open Hardware Summit! However, there is one way you can still get in&#8230; if [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p></p><p><a title="sold_out_sm by jspatchwork, on Flickr" href="http://www.flickr.com/photos/23126594@N00/2787395526/"><img loading="lazy" decoding="async" src="http://farm4.staticflickr.com/3040/2787395526_f33329ac2d.jpg" alt="sold_out_sm" width="300" height="211" /></a></p>
+<p>We are excited to announce that we are officially sold out of tickets to the 2012 Open Hardware Summit! However, there is one way you can still get in&#8230; if you <a href="/sponsor/">sponsor</a> at the supporter level or higher ($300+), a complimentary ticket is included as a benefit! We are still looking for sponsors so if you&#8217;re looking for a ticket, this is the way to go.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1185</post-id>	</item>
+		<item>
+		<title>Sponsors, we still need you!</title>
+		<link>/2012/08/29/sponsors-we-still-need-you/</link>
+		
+		<dc:creator><![CDATA[summit]]></dc:creator>
+		<pubDate>Wed, 29 Aug 2012 19:26:36 +0000</pubDate>
+				<category><![CDATA[Announcements]]></category>
+		<guid isPermaLink="false">http://summit.oshwa.org/?p=1085</guid>
+
+					<description><![CDATA[We at the Open Hardware Summit work very hard to keep the Summit accessible to all people and companies, big or small. We keep the ticket prices affordable (even with [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p></p><p>We at the Open Hardware Summit work very hard to keep the Summit accessible to all people and companies, big or small. We keep the ticket prices affordable (even with meals, cocktails, a kickass lineup and a goody bag to die for!), and we cap sponsorship levels so every sponsor gets the recognition they deserve. But in order to do this, we need your help! Please consider supporting the Open Hardware Summit 2012 by becoming a sponsor. Different levels are available from $20 to $4500+, and (besides making history), the benefits are totally worth it (complimentary tickets, goody bag access, reserved seats, etc.)! You can sponsor by PayPal, credit card (through PayPal), or by sending a check &#8211; the details are all <a href="/sponsor/">here</a>.</p>
+<p>A huge <strong>thank you</strong> to those who have already Sponsored for 2012:</p>
+<p><strong><a href="http://ac2car.org/">Bryan Thomas</a><br />
+<a href="http://aliciagibb.com/">Alicia Gibb</a><br />
+Nicolas Saugnier<br />
+</strong></p>
+<p><a href="sparkfun.com"><img loading="lazy" decoding="async" class="size-full wp-image-414 alignleft" src="/files/2012/03/Sparkfun_20122.png" alt="" width="575" height="256" srcset="/files/2012/03/Sparkfun_20122.png 575w, /files/2012/03/Sparkfun_20122-300x133.png 300w" sizes="(max-width: 575px) 100vw, 575px" /></a></p>
+<p><a href="http://eyebeam.org/"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-1106" title="eyebeam" src="/files/2012/03/eyebeam_sm1.jpg" alt="" width="575" height="85" srcset="/files/2012/03/eyebeam_sm1.jpg 575w, /files/2012/03/eyebeam_sm1-300x44.jpg 300w" sizes="(max-width: 575px) 100vw, 575px" /></a></p>
+<p><a href="http://www.nycresistor.com/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-1101" title="NYCR" src="/files/2012/03/NYCRLOGO.png" alt="" width="206" height="240" /></a></p>
+<p><a href="http://www.adafruit.com/"><img loading="lazy" decoding="async" class="alignleft  wp-image-345" src="/files/2012/03/Adafruit_4bricks_20121.png" alt="" width="240" height="95" /></a></p>
+<p><a href="http://oomlout.co.uk/"><img loading="lazy" decoding="async" class="size-full wp-image-373 alignleft" src="/files/2012/03/oomlout_2012.png" alt="" width="240" height="137" /></a></p>
+<p><a href="http://www.sensemake.rs/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-375" src="/files/2012/03/sensemakers_2012.png" alt="" width="480" height="159" srcset="/files/2012/03/sensemakers_2012.png 480w, /files/2012/03/sensemakers_2012-300x99.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></p>
+<p><a href="http://www.phenoptix.com/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-374" src="/files/2012/03/phenoptix_2012.png" alt="" width="240" height="48" /></a><a href="http://www.xess.com/"><img loading="lazy" decoding="async" class="alignright size-full wp-image-380" src="/files/2012/03/xess_2012.png" alt="" width="240" height="68" /></a></p>
+<p><a href="http://wyolum.com/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-376" src="/files/2012/03/WyoLum_2012.png" alt="" width="360" height="136" srcset="/files/2012/03/WyoLum_2012.png 360w, /files/2012/03/WyoLum_2012-300x113.png 300w" sizes="(max-width: 360px) 100vw, 360px" /></a><a href="http://www.switch-science.com/"><img loading="lazy" decoding="async" class="alignright size-full wp-image-412" src="/files/2012/03/Switch_science_3bricks2.png" alt="" width="350" height="300" srcset="/files/2012/03/Switch_science_3bricks2.png 350w, /files/2012/03/Switch_science_3bricks2-300x257.png 300w" sizes="(max-width: 350px) 100vw, 350px" /></a><a href="http://blog.ultimaker.com/"><img loading="lazy" decoding="async" class="size-full wp-image-413 alignleft" src="/files/2012/03/ultimaker_4bricks1.png" alt="" width="575" height="239" srcset="/files/2012/03/ultimaker_4bricks1.png 575w, /files/2012/03/ultimaker_4bricks1-300x124.png 300w" sizes="(max-width: 575px) 100vw, 575px" /></a></p>
+<p><a href="http://www.parallax.com/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-485" src="/files/2012/03/ParallaxSemi-Logo.png" alt="" width="440" height="100" srcset="/files/2012/03/ParallaxSemi-Logo.png 440w, /files/2012/03/ParallaxSemi-Logo-300x68.png 300w" sizes="(max-width: 440px) 100vw, 440px" /></a></p>
+<p><a href="http://garagelab.com/"><img loading="lazy" decoding="async" class="size-full wp-image-409 alignleft" src="/files/2012/03/garagelab.png" alt="" width="290" height="86" /></a></p>
+<p><a href="http://shop.wiznettechnology.com/sub_modules/en/index.asp"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-491" src="/files/2012/03/wiznet-logo.png" alt="" width="440" height="147" srcset="/files/2012/03/wiznet-logo.png 440w, /files/2012/03/wiznet-logo-300x100.png 300w" sizes="(max-width: 440px) 100vw, 440px" /></a></p>
+<p><a href="http://electricstitches.com/"><img loading="lazy" decoding="async" class="alignright  wp-image-388" src="/files/2012/03/electric_stitches_2012.png" alt="" width="140" height="186" /></a><a href="http://dangerousprototypes.com/"><img loading="lazy" decoding="async" class="alignleft  wp-image-454" src="/files/2012/03/dangerous_prototypes.png" alt="" width="250" height="76" /></a></p>
+<p><a href="http://www.seeedstudio.com/depot/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-844" title="SEEED" src="/files/2012/03/SEEED_gray2.png" alt="" width="650" height="114" srcset="/files/2012/03/SEEED_gray2.png 650w, /files/2012/03/SEEED_gray2-300x52.png 300w" sizes="(max-width: 650px) 100vw, 650px" /></a></p>
+<p><a href="http://www.cooking-hacks.com/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-872" title="cooking_hacks" src="/files/2012/03/cooking_hacks.png" alt="" width="250" height="76" /></a></p>
+<p><a href="http://gomolldesign.com/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-876" title="grd_logo_horizontal_desat" src="/files/2012/03/grd_logo_horizontal_desat.png" alt="" width="300" height="42" /></a></p>
+<p><a href="http://bomfire.com/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-877" title="bomfire_4bricks" src="/files/2012/03/bomfire_4bricks.png" alt="" width="300" height="70" /></a></p>
+<p><a href="http://evilmadscience.com/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-887" title="EMSL" src="/files/2012/03/logo_evilmadscience_350.jpg" alt="" width="350" height="127" srcset="/files/2012/03/logo_evilmadscience_350.jpg 350w, /files/2012/03/logo_evilmadscience_350-300x108.jpg 300w" sizes="(max-width: 350px) 100vw, 350px" /></a></p>
+<p><a href="http://www.ghielectronics.com/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-889" title="GHILogo" src="/files/2012/03/GHILogo.png" alt="" width="300" height="100" /></a></p>
+<p><a href="http://littlebits.cc/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-891" title="littlebits_greyscale_logo" src="/files/2012/03/littlebits_greyscale_logo.png" alt="" width="450" height="195" srcset="/files/2012/03/littlebits_greyscale_logo.png 450w, /files/2012/03/littlebits_greyscale_logo-300x130.png 300w" sizes="(max-width: 450px) 100vw, 450px" /></a></p>
+<p><a href="http://www.watterott.com/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-934" title="we-360x80_transp" src="/files/2012/03/we-360x80_transp.png" alt="" width="300" height="67" /></a></p>
+<p><a href="http://www.dozuki.com/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-946" title="dozuki" src="/files/2012/03/dozuki.png" alt="" width="450" height="139" srcset="/files/2012/03/dozuki.png 450w, /files/2012/03/dozuki-300x92.png 300w" sizes="(max-width: 450px) 100vw, 450px" /></a></p>
+<p><a href="http://ithacagenerator.org/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-947" title="Ithaca_generator" src="/files/2012/03/Ithaca_generator.png" alt="" width="300" height="84" /></a></p>
+<p><a href="http://www.poly.edu/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-949" title="NYUPoly" src="/files/2012/03/NYUPoly.png" alt="" width="600" height="219" srcset="/files/2012/03/NYUPoly.png 600w, /files/2012/03/NYUPoly-300x109.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p><a href="http://www.nedocon.com/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-952" title="nedocon" src="/files/2012/03/nedocon1.png" alt="" width="300" height="46" /></a></p>
+<p><a href="http://ti.com/msp430opensource"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-953" title="Texas_instruments" src="/files/2012/03/Texas_instruments.png" alt="" width="450" height="66" srcset="/files/2012/03/Texas_instruments.png 450w, /files/2012/03/Texas_instruments-300x44.png 300w" sizes="(max-width: 450px) 100vw, 450px" /></a></p>
+<p><a href="http://www.arduino.cc/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-1128" title="Arduino_grey copy" src="/files/2012/03/Arduino_grey-copy.png" alt="" width="450" height="307" srcset="/files/2012/03/Arduino_grey-copy.png 450w, /files/2012/03/Arduino_grey-copy-300x204.png 300w" sizes="(max-width: 450px) 100vw, 450px" /></a></p>
+<p><a href="http://centeye.com/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-1129" title="centeye_grey" src="/files/2012/03/centeye_grey.png" alt="" width="450" height="150" srcset="/files/2012/03/centeye_grey.png 450w, /files/2012/03/centeye_grey-300x100.png 300w" sizes="(max-width: 450px) 100vw, 450px" /></a></p>
+<p><a href="https://www.thingspeak.com/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-1131" title="ThingSpeak_Logo_grey" src="/files/2012/03/ThingSpeak_Logo_grey.png" alt="" width="300" height="54" /></a></p>
+<p><a href="/files/2012/03/ITP-Logo-PNG-copy.png"><img loading="lazy" decoding="async" class="size-full wp-image-1132 alignleft" src="/files/2012/03/ITP-Logo-PNG-copy.png" alt="ITP-Logo-PNG copy" width="300" height="300" srcset="/files/2012/03/ITP-Logo-PNG-copy.png 300w, /files/2012/03/ITP-Logo-PNG-copy-150x150.png 150w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://drinkicd.com/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-1130" title="icd_logo_grey" src="/files/2012/03/icd_logo_grey.png" alt="" width="300" height="300" srcset="/files/2012/03/icd_logo_grey.png 300w, /files/2012/03/icd_logo_grey-150x150.png 150w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://makerfaire.com/"><img loading="lazy" decoding="async" class="alignleft size-full wp-image-980" title="Makerfaire_NY" src="/files/2012/03/Makerfaire_NY.png" alt="" width="600" height="238" srcset="/files/2012/03/Makerfaire_NY.png 600w, /files/2012/03/Makerfaire_NY-300x119.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1085</post-id>	</item>
+		<item>
+		<title>A World Maker Faire ticket is in the bag!</title>
+		<link>/2012/08/22/a-world-maker-faire-ticket-is-in-the-bag/</link>
+		
+		<dc:creator><![CDATA[dustyn]]></dc:creator>
+		<pubDate>Wed, 22 Aug 2012 13:17:55 +0000</pubDate>
+				<category><![CDATA[Announcements]]></category>
+		<guid isPermaLink="false">http://summit.oshwa.org/?p=764</guid>
+
+					<description><![CDATA[We&#8217;re excited to announce that Maker Faire, long time supporter of the Open Hardware Summit, will be including 1 one-day complimentary ticket to World Maker Faire New York in the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p></p><p><a href="/files/2012/08/MFNYC12_rnd_200x200.gif"><img loading="lazy" decoding="async" class="size-full wp-image-959 alignleft" alt="MFNYC12_rnd_200x200" src="/files/2012/08/MFNYC12_rnd_200x200.gif" width="200" height="200" srcset="/files/2012/08/MFNYC12_rnd_200x200.gif 200w, /files/2012/08/MFNYC12_rnd_200x200-150x150.gif 150w" sizes="(max-width: 200px) 100vw, 200px" /></a></p>
+<p>We&#8217;re excited to announce that <a href="http://makerfaire.com/">Maker Faire</a>, long time supporter of the Open Hardware Summit, will be including 1 one-day complimentary ticket to <a href="http://makerfaire.com/newyork/2012/index.html">World Maker Faire New York</a> in the Open Hardware Summit goodie bag, as well as discount codes for family and friends! As many people are familiar with Maker Faire in this crowd, we think you&#8217;ll be excited too. If you aren&#8217;t familiar with it, here’s a little taste of what it’s like:</p>
+<p>World Maker Faire New York &#8211; 3rd Annual. We like to call it the Greatest Show (and Tell) on Earth!</p>
+<p>Produced by the folks who bring you MAKE magazine, Maker Faire celebrates things people create themselves &#8212; from rockets and robots, to DIY science and technology, to sustainable foods and upcycled clothes.</p>
+<p>There will be over 500 Makers and Maker organizations participating and showcasing their projects. The festival is expected to draw over 40,000 attendees from across the state, the country, and around the world.</p>
+<p>When:<br />
+Saturday, September 29th &#8211; from 10am &#8211; 7pm<br />
+Sunday, September 30th &#8211; from 10am &#8211; 6pm</p>
+<p>Where:<br />
+New York Hall of Science (NYSCI)<br />
+47-01 111th Street<br />
+Queens, NY 11368-2950</p>
+<p>If you haven&#8217;t been to Maker Faire, it&#8217;s a very a prominent and important part of the DIY movement and has a lot of overlap with open source hardware. You can check out other Maker Faires locations on the Maker Faire website: <a href="http://makerfaire.com/">makerfaire.com</a></p>
+<p>We hope you&#8217;ll take advantage of the complimentary ticket and further support the DIY / Maker movement. The fabulous people on the Maker Faire crew have given the Summit a large amount of support in the past and continue to do so. We even scheduled the Open Hardware Summit two days before Maker Faire this year again even though it is not co-located, since we know how many amazing people they attract. We are honored to be part of this community, standing on the shoulders of giants. We couldn&#8217;t do it without you! Also check out their extended Call for Makers and the Early Bird Tickets deal!</p>
+<p><strong>Call for Makers</strong><br />
+Makers, tinkerers, innovators and hobby enthusiasts still have the opportunity to show their stuff at World Maker Faire. The Call for Makers has been extended to August 24, 2012. Visit <a href="http://makerfaire.com/newyork/2012/callformakers/index.html">http://makerfaire.com/newyork/2012/callformakers/index.html</a> to learn more about how to submit.</p>
+<p><strong>Early Bird Tickets</strong><br />
+If you need more than 1 one-day pass make sure to take advantage of the early bird offering: <a href="http://makerfairenyc.eventbrite.com/">http://makerfairenyc.eventbrite.com/</a></p>
+<p>More info about this year’s World Maker Faire <a href="http://www.marketwire.com/press-release/World-Maker-Faire-Returns-New-York-September-29-30-2012-Celebrate-Innovation-1692523.htm">here</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">764</post-id>	</item>
+		<item>
+		<title>Get your OHS tickets here!</title>
+		<link>/2012/08/03/get-your-ohs-tickets-here/</link>
+					<comments>/2012/08/03/get-your-ohs-tickets-here/#comments</comments>
+		
+		<dc:creator><![CDATA[dustyn]]></dc:creator>
+		<pubDate>Fri, 03 Aug 2012 21:03:48 +0000</pubDate>
+				<category><![CDATA[Announcements]]></category>
+		<guid isPermaLink="false">http://summit.oshwa.org/?p=860</guid>
+
+					<description><![CDATA[Have you seen our incredible lineup of speakers yet? We have a lot of fresh blood mixed in with a few names you&#8217;ll probably recognize, and we are extremely excited [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p></p><p>Have you seen our incredible <a href="/2012/07/23/2012-speaker-lineup/">lineup of speakers</a> yet? We have a lot of fresh blood mixed in with a few names you&#8217;ll probably recognize, and we are extremely excited to host such a diverse group.</p>
+<p><strong>TICKETS</strong><br />
+Please, purchase your tickets <a href="http://ohsummit.eventbrite.com/">here</a>.<br />
+Tickets include breakfast, snacks, beer/wine, plus an amazing goodie bag from our fabulous sponsors. More about tickets on the <a href="/attend/">Attend</a> page.</p>
+<p><strong>SPONSORSHIPS</strong><br />
+<a href="/sponsor/">Sponsors</a>, we still need you! The Open Hardware Summit would not be possible without you. We strive to keep the summit accessible, and still need some help covering our budget. Please consider joining our current list of amazing <a href="/sponsor/">sponsors</a>, and see the amazing benefits you can get!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2012/08/03/get-your-ohs-tickets-here/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">860</post-id>	</item>
+		<item>
+		<title>2012 Speaker Lineup</title>
+		<link>/2012/07/23/2012-speaker-lineup/</link>
+					<comments>/2012/07/23/2012-speaker-lineup/#comments</comments>
+		
+		<dc:creator><![CDATA[dustyn]]></dc:creator>
+		<pubDate>Mon, 23 Jul 2012 22:02:49 +0000</pubDate>
+				<category><![CDATA[Announcements]]></category>
+		<guid isPermaLink="false">http://summit.oshwa.org/?p=756</guid>
+
+					<description><![CDATA[First of all, a huge thank you to everyone that submitted talks, demos, and posters. We received an overwhelming number of submissions, and have been working hard to schedule an [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p></p><p>First of all, a huge thank you to everyone that submitted talks, demos, and posters. We received an overwhelming number of submissions, and have been working hard to schedule an amazing day for everyone that will attend. Another big thank you to our ~60 reviewers! All notifications of acceptance have gone out. The quality of the submissions made our jobs very hard, but remember if your talk wasn&#8217;t accepted, you have the option of resubmitting as a poster or demo by 5pm EST July 31st. Now, without further ado, we&#8217;re thrilled to announce the OHS 2012 speaker lineup:</p>
+<p><strong>Keynote</strong><br />
+Chris Anderson &#8211; <a href="/microeconomics-for-makers-business-models-for-the-new-industrial-revolution/">Microeconomics for Makers: Business Models for the New Industrial Revolution</a></p>
+<p><strong>Big Picture, Big Ideas</strong><br />
+Dale Dougherty &#8211; <a href="/makerspaces-in-schools-and-communities/">Makerspaces in Schools and Communities</a><br />
+Leah Buechley &#8211; <a href="/empowerment-and-open-source-hardware/">Empowerment and Open Source Hardware</a><br />
+Akiba &#8211; <a href="/humanitarian-open-source-hardware/">Humanitarian Open Source Hardware</a><br />
+Michael Weinberg &#8211; <a href="/how-hardware-is-helping-save-open-in-dc/">How Hardware Is Helping Save Open in DC</a><br />
+Ayah Bdeir &#8211; <a href="/breaking-open-our-education/">Breaking Open Our Education</a></p>
+<p><strong>Community &amp; Education</strong><br />
+Shannon Dosemagen &amp; Liz Barry &#8211; <a href="/public-laboratory-for-open-technology-and-science-supporting-community-advocacy/">Public Laboratory for Open Technology and Science: Supporting Community Advocacy</a><br />
+Jim Burke &#8211; <a href="/the-power-racing-series-how-open-competition-and-hackerspaces-inspire-the-public/">The Power Racing Series: How Open Competition and Hackerspaces Inspire the Public</a><br />
+Katherine Moriwaki, Louisa Campbell, Jonah Brucker-Cohen, Joseph Saavedra, Liza Stark &#8211; <a href="/scrapyard-challenge-jr-a-low-cost-reduced-feature-set-platform-utilizing-open-hardware-for-experimenting-with-electricity-and-materials-through-creating-sound/">Scrapyard Challenge Jr.: A low-cost, reduced feature-set platform utilizing open hardware for experimenting with electricity and materials through creating sound</a><br />
+Paulo Blikstein &#8211; <a href="/the-fablabschool-project-digital-fabrication-for-the-other-99/"> The FabLab@School Project: Digital Fabrication for the Other 99% </a><br />
+Sylvia Todd &amp; Joey Hudy &#8211; <a href="/why-open-hardware-is-super-awesome-for-kids/">Why Open Hardware is Super-Awesome for Kids</a></p>
+<p><strong>Hardware &amp; Materials</strong><br />
+Dominic Muren &#8211; <a href="/free-as-in-dirt-why-matter-matters-for-open-hardware/">Free As In Dirt: Why Matter Matters for Open Hardware</a><br />
+Erin Kennedy &#8211; <a href="/sharing-the-inspiration-with-robot-kits/">Sharing the Inspiration with Robot Kits!</a><br />
+Pat Delany &#8211; <a href="/665-2/">Multimachine: A $150 Lathe/Mill/Drill made of Concrete and Scrap Metal</a><br />
+Josef Prusa &#8211; <a href="/the-art-of-reprap-breeding/">The Art of RepRap Breeding</a></p>
+<p><strong>Legal &amp; Licensing</strong><br />
+Andrew Katz &amp; Myriam Ayass &#8211; <a href="/open-hardware-licensing-why-how/">Open Hardware Licensing: Why? How?</a><br />
+David Carrier &#8211; <a href="/finding-the-limits-of-open-hardware-examples-and-end-cases/">Finding the Limits of Open Hardware: Examples and End Cases</a><br />
+Kipp Bradford &#8211; <a href="/patents-3-0-how-to-fix-american-innovation/">Patents 3.0: How to fix American Innovation</a></p>
+<p><strong>Business &amp; Manufacturing</strong><br />
+Marco Perry &#8211; <a href="/going-from-a-heavy-ip-world-patent-everything-to-an-open-hardware-world/">Going from a Heavy IP World (patent everything!) to an Open Hardware World</a><br />
+Amanda Wozniak &#8211; <a href="/hands-on-design-for-hardware-a-primer-on-manufacturing-and-ethnography-of-use/">Hands on Design for Hardware: A Primer on Manufacturing and Ethnography of Use</a><br />
+Mike Hord &#8211; <a href="/agency-compliance-and-you-an-introduction-for-small-manufacturers-of-oshw/">Agency Compliance and You: An Introduction for Small Manufacturers of OSHW</a><br />
+Ian Lesnet &#8211; <a href="/a-sketchy-history-usb-and-open-hardware/">A Sketchy History: USB and Open Hardware</a><br />
+Justin Shaw &amp; Anool J M &#8211; <a href="/wyolum-sweat-equity/">WyoLum Sweat Equity</a><br />
+Bre Pettis &#8211; <a href="/challenges-of-open-source-consumer-products/">Challenges of Open Source Consumer Products</a></p>
+<p><strong>New Frontiers</strong><br />
+Greg Gage &#8211; <a href="/backyard-brains-improving-the-understanding-of-the-brain-through-open-source-neurotechnology/">Backyard Brains: Improving the Understanding of the Brain Through Open Source Neurotechnology</a><br />
+Russell Neches &amp; Meg Pirrung &#8211; <a href="/an-open-laboratory-for-microbial-ecology/">An Open Laboratory for Microbial Ecology</a><br />
+Jordan Miller &#8211; <a href="/sweet-science-3d-printed-sugar-templates-for-regenerative-medicine/">Sweet Science: 3D Printed Sugar Templates for Regenerative Medicine</a><br />
+John Nicol &#8211; <a href="/open-source-aircraft-pushing-the-frontiers-of-open-source-hardware/">Makerplane</a><br />
+Stephen Murphey &#8211; <a href="/open-sourcing-the-final-frontier/">Open Sourcing the Final Frontier</a></p>
+<p><strong>Art &amp; Design</strong><br />
+Valérie Lamontagne &#8211; <a href="/open-wearables/">Open Wearables</a><br />
+Hannah Perner-Wilson &#8211; <a href="/a-kit-of-no-parts/">A Kit-of-No-Parts</a><br />
+Chris Novello &#8211; <a href="/illucia-dtr/">illucia dtr </a></p>
+<p><strong>Closing Remarks</strong><br />
+Alicia Gibb &#8211; <a href="/open-source-hardware-association/">The Open Source Hardware Association</a></p>
+<p><strong>Open Hardware Celebration</strong><br />
+Dessert will be provided along with beer from Brooklyn Brewery, wine, and other surprises. Posters and demos will be on display, and there will be particular areas and times allotted for discussion groups on specific topics.</p>
+<p>The list of poster presentations and demos will be added soon.</p>
+<p>Stay tuned for ticket sales!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2012/07/23/2012-speaker-lineup/feed/</wfw:commentRss>
+			<slash:comments>12</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">756</post-id>	</item>
+		<item>
+		<title>Under Construction!</title>
+		<link>/2012/07/11/under-construction/</link>
+		
+		<dc:creator><![CDATA[summit]]></dc:creator>
+		<pubDate>Wed, 11 Jul 2012 20:18:29 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://summit.oshwa.org/?p=537</guid>
+
+					<description><![CDATA[Thank you for all your amazing talk, demo, and poster submissions! The Open Hardware Summit elves are working tirelessly to sort through them and get back to everyone. We have [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p></p><p>Thank you for all your amazing talk, demo, and poster submissions! The Open Hardware Summit elves are working tirelessly to sort through them and get back to everyone.  We have been sending out rolling notifications, but we apologize for missing our anticipated notification date of July 8th for everyone.  The revised plan is to have all notifications out by the end of this week.  See you in NYC!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">537</post-id>	</item>
+	</channel>
+</rss>

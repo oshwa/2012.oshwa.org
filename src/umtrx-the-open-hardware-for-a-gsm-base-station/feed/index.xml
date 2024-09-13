@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: UmTRX: The open hardware for a GSM base station	</title>
+	<atom:link href="/umtrx-the-open-hardware-for-a-gsm-base-station/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:31:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: New York Trip &#124; Part Fusion Electronics		</title>
+		<link>/umtrx-the-open-hardware-for-a-gsm-base-station/#comment-313</link>
+
+		<dc:creator><![CDATA[New York Trip &#124; Part Fusion Electronics]]></dc:creator>
+		<pubDate>Sat, 13 Oct 2012 09:09:35 +0000</pubDate>
+		<guid isPermaLink="false">http://summit.oshwa.org/?page_id=928#comment-313</guid>
+
+					<description><![CDATA[[...] Thursday was the Open Hardware Summit at the Eyebeam Art + Technology Center in Manhattan, organised by the Open Source Hardware Association. It was a very intense day with thirty three talks, thirty eight demos and nine posters and a number coffee/lunch breaks giving opportunities to talk with other delegates. Highlights for me were the talk from  Bre Pettis – Challenges of Open Source Consumer Products, the many talks about the use of Open Source Hardware in science and the demo of UmTRX: The open hardware for a GSM base station. [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Thursday was the Open Hardware Summit at the Eyebeam Art + Technology Center in Manhattan, organised by the Open Source Hardware Association. It was a very intense day with thirty three talks, thirty eight demos and nine posters and a number coffee/lunch breaks giving opportunities to talk with other delegates. Highlights for me were the talk from  Bre Pettis – Challenges of Open Source Consumer Products, the many talks about the use of Open Source Hardware in science and the demo of UmTRX: The open hardware for a GSM base station. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

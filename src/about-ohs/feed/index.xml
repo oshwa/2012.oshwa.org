@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: About	</title>
+	<atom:link href="/about-ohs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 08 May 2014 11:30:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: 2012 Open Hardware Summit! &#8211; September 27th, 2012 #ohsummit #oshw &#171; adafruit industries blog		</title>
+		<link>/about-ohs/#comment-2</link>
+
+		<dc:creator><![CDATA[2012 Open Hardware Summit! &#8211; September 27th, 2012 #ohsummit #oshw &#171; adafruit industries blog]]></dc:creator>
+		<pubDate>Thu, 12 Apr 2012 18:22:59 +0000</pubDate>
+		<guid isPermaLink="false">http://summit.oshw.org/?page_id=50#comment-2</guid>
+
+					<description><![CDATA[[...] on the heels of the Open Source Hardware Association announcement, the OHS team has posted the first details of the 2012 Open Hardware Summit, scheduled for September 27th. This [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] on the heels of the Open Source Hardware Association announcement, the OHS team has posted the first details of the 2012 Open Hardware Summit, scheduled for September 27th. This [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

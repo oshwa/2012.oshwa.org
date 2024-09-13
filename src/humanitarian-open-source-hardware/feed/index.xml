@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Humanitarian Open Source Hardware	</title>
+	<atom:link href="/humanitarian-open-source-hardware/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:26:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Open Hardware Summit 2012 Recap - University Program - Blogs - TI E2E Community		</title>
+		<link>/humanitarian-open-source-hardware/#comment-309</link>
+
+		<dc:creator><![CDATA[Open Hardware Summit 2012 Recap - University Program - Blogs - TI E2E Community]]></dc:creator>
+		<pubDate>Thu, 11 Oct 2012 14:18:21 +0000</pubDate>
+		<guid isPermaLink="false">http://summit.oshwa.org/?page_id=561#comment-309</guid>
+
+					<description><![CDATA[[...] got to hear an amazing story about how the local Japanese HackerSpace was able to collect radiation levels at the affected [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] got to hear an amazing story about how the local Japanese HackerSpace was able to collect radiation levels at the affected [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Travel logbook NYC: Open Hardware Summit &#38; Maker Faire &#171; Intuity Media Lab		</title>
+		<link>/humanitarian-open-source-hardware/#comment-305</link>
+
+		<dc:creator><![CDATA[Travel logbook NYC: Open Hardware Summit &#38; Maker Faire &#171; Intuity Media Lab]]></dc:creator>
+		<pubDate>Mon, 08 Oct 2012 16:24:16 +0000</pubDate>
+		<guid isPermaLink="false">http://summit.oshwa.org/?page_id=561#comment-305</guid>
+
+					<description><![CDATA[[...] This really is an awesome and open community, motivated by doing cool things and making the world a better place. [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] This really is an awesome and open community, motivated by doing cool things and making the world a better place. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Akiba: Humanitarian Open Source Hardware &#171; adafruit industries blog		</title>
+		<link>/humanitarian-open-source-hardware/#comment-290</link>
+
+		<dc:creator><![CDATA[Akiba: Humanitarian Open Source Hardware &#171; adafruit industries blog]]></dc:creator>
+		<pubDate>Wed, 03 Oct 2012 10:23:44 +0000</pubDate>
+		<guid isPermaLink="false">http://summit.oshwa.org/?page_id=561#comment-290</guid>
+
+					<description><![CDATA[[...] of my favorite speakers at OHS 2012 this year was the energetic, hilarious Akiba from [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] of my favorite speakers at OHS 2012 this year was the energetic, hilarious Akiba from [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

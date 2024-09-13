@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Open Hardware Community Survey	</title>
+	<atom:link href="/2012/03/28/open-hardware-community-survey/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/03/28/open-hardware-community-survey/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:35:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Andres Cicuttin		</title>
+		<link>/2012/03/28/open-hardware-community-survey/#comment-50</link>
+
+		<dc:creator><![CDATA[Andres Cicuttin]]></dc:creator>
+		<pubDate>Mon, 21 May 2012 10:35:22 +0000</pubDate>
+		<guid isPermaLink="false">http://summit.oshw.org/?p=104#comment-50</guid>
+
+					<description><![CDATA[Dear Colleagues / Friends
+
+We would like to invite you to participate in an important survey
+regarding an open FPGA Hardware initiative by the International Center for
+Theoretical Physics (ICTP - UNESCO). The aim of this project is to design
+a low-cost powerful FPGA platform to implement reconfigurable instruments
+for research and higher education. The project is based on an open
+software / hardware approach.
+
+Continue reading by clicking the link below / copy-pasting it into your
+browser
+
+https://docs.google.com/spreadsheet/viewform?formkey=dFc4cjlfRm1PRWdjS0xheGZqRWcxcWc6MQ
+
+
+---------------------------
+Warm Regards,
+
+Multidisciplinary Laboratory,
+International Center for Theoretical Physics, (ICTP), Trieste, Italy]]></description>
+			<content:encoded><![CDATA[<p>Dear Colleagues / Friends</p>
+<p>We would like to invite you to participate in an important survey<br />
+regarding an open FPGA Hardware initiative by the International Center for<br />
+Theoretical Physics (ICTP &#8211; UNESCO). The aim of this project is to design<br />
+a low-cost powerful FPGA platform to implement reconfigurable instruments<br />
+for research and higher education. The project is based on an open<br />
+software / hardware approach.</p>
+<p>Continue reading by clicking the link below / copy-pasting it into your<br />
+browser</p>
+<p><a href="https://docs.google.com/spreadsheet/viewform?formkey=dFc4cjlfRm1PRWdjS0xheGZqRWcxcWc6MQ" rel="nofollow ugc">https://docs.google.com/spreadsheet/viewform?formkey=dFc4cjlfRm1PRWdjS0xheGZqRWcxcWc6MQ</a></p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;<br />
+Warm Regards,</p>
+<p>Multidisciplinary Laboratory,<br />
+International Center for Theoretical Physics, (ICTP), Trieste, Italy</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

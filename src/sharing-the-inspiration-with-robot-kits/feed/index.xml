@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Sharing the Inspiration with Robot Kits!	</title>
+	<atom:link href="/sharing-the-inspiration-with-robot-kits/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:29:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: RobotGrrl.com &#187; Blog Archive &#187; Open Hardware Summit 2012		</title>
+		<link>/sharing-the-inspiration-with-robot-kits/#comment-261</link>
+
+		<dc:creator><![CDATA[RobotGrrl.com &#187; Blog Archive &#187; Open Hardware Summit 2012]]></dc:creator>
+		<pubDate>Wed, 26 Sep 2012 13:27:00 +0000</pubDate>
+		<guid isPermaLink="false">http://summit.oshwa.org/?page_id=662#comment-261</guid>
+
+					<description><![CDATA[[...] 11:30 and 1:00! It is called: Sharing the Inspiration with Robot Kits! Check out the description here. It&#8217;s only 5 minutes long, but I aim to leave people more inspired anyway! When building a [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] 11:30 and 1:00! It is called: Sharing the Inspiration with Robot Kits! Check out the description here. It&#8217;s only 5 minutes long, but I aim to leave people more inspired anyway! When building a [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
